@@ -3,7 +3,7 @@
 8min//Download stopwords from the NLTK, remove them from the tweets.
 9min//Create a bag-of-words for the tweets. Convert the words to lemmas and remove any stop words.
 8min//Split the tweets into a training and testing set, using the first 8000 tweets for training and the remaining for testing. (Do not use Scikit-learn, use the code presented above to subset the data.)
-Apply Multinomial Naive Bayes model, show the precision and recall scores for the positive and negative classes.
+29min//Apply Multinomial Naive Bayes model, show the precision and recall scores for the positive and negative classes.
 Test your model with some text.
 
 
