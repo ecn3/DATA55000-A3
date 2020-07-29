@@ -1,5 +1,5 @@
-Remove any HTML and Emoticons from the tweets.
-Reindex the tweets dataframe so the rows are in random order.
+25min//Remove any HTML and Emoticons from the tweets.
+2min//Reindex the tweets dataframe so the rows are in random order.
 Download stopwords from the NLTK, remove them from the tweets.
 Create a bag-of-words for the tweets. Convert the words to lemmas and remove any stop words.
 Split the tweets into a training and testing set, using the first 8000 tweets for training and the remaining for testing. (Do not use Scikit-learn, use the code presented above to subset the data.)
