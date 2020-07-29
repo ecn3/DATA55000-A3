@@ -5,3 +5,12 @@ Create a bag-of-words for the tweets. Convert the words to lemmas and remove any
 Split the tweets into a training and testing set, using the first 8000 tweets for training and the remaining for testing. (Do not use Scikit-learn, use the code presented above to subset the data.)
 Apply Multinomial Naive Bayes model, show the precision and recall scores for the positive and negative classes.
 Test your model with some text.
+
+
+pip install pillow
+pip install h5py
+
+#pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git
+pip install tensorflow
+conda install -c conda-forge theano
+pip install keras
